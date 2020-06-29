@@ -3,6 +3,8 @@ Challenge 2 of the [Full Cycle Marathon](http://maratona.fullcycle.com.br/) 2.0
 
 [Challenges](https://github.com/codeedu/maratona2-desafios)
 
+[Docker Image](https://hub.docker.com/r/axell13/fullcycle2.0-challenge2)
+
 ---
 
 <p align="center">
